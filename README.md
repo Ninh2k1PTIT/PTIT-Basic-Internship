@@ -16,4 +16,4 @@
   <li>Nhập lệnh: <code>npm start</code> và truy cập <a href="http://localhost:3000" target="_blank">localhost:3000</a> để kiểm tra các api</li>
 </ol>
 <h3>Demo</h3>
-Xem demo <a href="https://app-demo-39ec3.web.app/" target="_blank">tại đây</a>
+Xem demo <a href="https://app-demo-39ec3.web.app/" target="_blank">tại đây</a> (Demo không còn hoạt động do Heroku đã ngưng deploy Backend hỗ trợ miễn phí) 
